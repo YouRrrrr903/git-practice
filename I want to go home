@@ -1,0 +1,7 @@
+#아ㅏㅏㅏ집가고싶다고
+def gohome():
+  pass
+
+time = 7
+if time==7:
+  gohome()
